@@ -1,4 +1,5 @@
 .gitattributes
+outputs/
 models/
 tmp/
 *.sw[op]
